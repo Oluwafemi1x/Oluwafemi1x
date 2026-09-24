@@ -7,7 +7,7 @@
 I build practical software that makes operations simpler: reliable APIs, data-driven tools, browser automation, and thoughtful user experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Oluwafemi1x-181717?style=for-the-badge&logo=github)](https://github.com/Oluwafemi1x)
-[![X](https://img.shields.io/badge/X-%40Pyc0der-000000?style=for-the-badge&logo=x)](https://x.com/Pyc0der)
+[![X](https://img.shields.io/badge/X-%40Pyc0der-000000?style=for-the-badge&logo=x)](https://x.com/PycOder)
 [![TikTok](https://img.shields.io/badge/TikTok-%40pycoderr-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@pycoderr)
 
 </div>
