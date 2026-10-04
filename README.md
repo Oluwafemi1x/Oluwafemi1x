@@ -28,6 +28,7 @@ I build practical software that makes operations simpler: reliable APIs, data-dr
 | **MarginGuard Automation** | Playwright-powered competitor price and stock monitoring, screenshot evidence, scan history, and Excel/CSV reports. | [Repository](https://github.com/Oluwafemi1x/marginguard-automation) |
 | **ProofThread Telegram Bot** | Privacy-conscious decision and action tracking for Telegram groups, with attributable records and source-message links. | [Repository](https://github.com/Oluwafemi1x/proofthread-telegram-bot) |
 | **Zunavoa Marketplace** | A responsive multi-vendor e-commerce storefront and seller dashboard. | [Live site](https://oluwafemi1x.github.io/zunavoa-marketplace/) · [Repository](https://github.com/Oluwafemi1x/zunavoa-marketplace) |
+| **Pycoder URL Shortener** | Free short links with custom aliases, QR codes, campaign tags and click tracking; Flask backend with persistent storage. | [Free URL shortener](https://oluwafemi1x.github.io/url-shortener/) · [Repository](https://github.com/Oluwafemi1x/url-shortener) |
 | **Task Manager** | A responsive task-management web app with search, local persistence, reminders, and theme preferences. | [Live site](https://oluwafemi1x.github.io/Task-Manager/) · [Repository](https://github.com/Oluwafemi1x/Task-Manager) |
 
 **Additional product work:** FESOMI School Management System and LeadPilot AI. Their source repositories are private; product walkthroughs can be shared upon request.
