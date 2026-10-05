@@ -42,6 +42,8 @@ LeadPilot captures requirements, identifies intent, drafts responses, coordinate
 
 **Verified product proof:** public prospect demo flow · private customer workspace · pilot-request flow · production release verification · Render deployment blueprint · CI for backend tests and frontend type/build checks
 
+[**🚀 TRY LEADPILOT LIVE**](https://leadpilot-web-nvpk.onrender.com) · [**API**](https://leadpilot-api-cefl.onrender.com) · [**Health**](https://leadpilot-api-cefl.onrender.com/ready)
+
 > Product walkthroughs and pilot demonstrations are available for prospective businesses, collaborators, and recruiters.
 
 ---
@@ -54,7 +56,7 @@ The project focuses on backend concerns that matter in real systems rather than 
 
 **Engineering proof:** FastAPI · PostgreSQL · SQLAlchemy 2 · JWT · Argon2 · Owner/Admin/Member RBAC · tenant isolation · Alembic · pytest · Docker · GitHub Actions
 
-[Source & documentation](https://github.com/Oluwafemi1x/opspilot-api) · [CI](https://github.com/Oluwafemi1x/opspilot-api/actions) · **Render-ready deployment included**
+[**🚀 LIVE API**](https://opspilot-api-ly1c.onrender.com) · [**📚 SWAGGER DOCS**](https://opspilot-api-ly1c.onrender.com/docs) · [Health](https://opspilot-api-ly1c.onrender.com/health) · [Source](https://github.com/Oluwafemi1x/opspilot-api) · [CI](https://github.com/Oluwafemi1x/opspilot-api/actions)
 
 ---
 
@@ -68,7 +70,7 @@ Playwright-powered system that monitors competitor price and stock data, capture
 
 ![MarginGuard dashboard](https://raw.githubusercontent.com/Oluwafemi1x/marginguard-automation/main/docs/demo/dashboard.png)
 
-[Source](https://github.com/Oluwafemi1x/marginguard-automation) · [Watch demo video](https://github.com/Oluwafemi1x/marginguard-automation/blob/main/docs/demo/marginguard-demo.mp4) · [CI](https://github.com/Oluwafemi1x/marginguard-automation/actions)
+[**🚀 LIVE DEMO**](https://marginguard-automation.onrender.com) · [**🎬 WATCH DEMO VIDEO**](https://github.com/Oluwafemi1x/marginguard-automation/blob/main/docs/demo/marginguard-demo.mp4) · [Swagger](https://marginguard-automation.onrender.com/docs) · [Source](https://github.com/Oluwafemi1x/marginguard-automation) · [CI](https://github.com/Oluwafemi1x/marginguard-automation/actions)
 
 ---
 
