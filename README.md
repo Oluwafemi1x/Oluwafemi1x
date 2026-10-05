@@ -2,54 +2,124 @@
 
 # Hi, I'm Oluwafemi Olawumi Steven 👋
 
-### Python Backend Developer · APIs · Automation · Applied AI
+### Python Backend Engineer · FastAPI · PostgreSQL · Automation · Applied AI
 
-I build practical software that makes operations simpler: reliable APIs, data-driven tools, browser automation, and thoughtful user experiences.
+I build production-oriented Python systems: secure APIs, multi-tenant SaaS products, automation workflows, and reliability tooling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Oluwafemi1x-181717?style=for-the-badge&logo=github)](https://github.com/Oluwafemi1x)
-[![X](https://img.shields.io/badge/X-%40Pyc0der-000000?style=for-the-badge&logo=x)](https://x.com/PycOder)
+[![X](https://img.shields.io/badge/X-%40Pyc0der-000000?style=for-the-badge&logo=x)](https://x.com/Pyc0der)
 [![TikTok](https://img.shields.io/badge/TikTok-%40pycoderr-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@pycoderr)
 
 </div>
 
 ---
 
-### 👨‍💻 What I work on
+## 🚀 Flagship engineering projects
 
-- **Backend engineering:** Python, FastAPI, Flask, REST APIs, PostgreSQL, SQLite, authentication, and access control.
-- **Automation:** Playwright, browser workflows, data capture, reporting, and repeatable processes.
-- **Product development:** Building tools for operations, education, and commerce with attention to security and usability.
+### 🧪 [PayLab — Payment Webhook Reliability & Chaos Testing](https://github.com/Oluwafemi1x/PayLab)
 
-### 🚀 Featured projects
+**Open-source Python toolkit for breaking payment integrations safely before customers do.**
 
-| Project | What it demonstrates | Explore |
-| --- | --- | --- |
-| **OpsPilot API** | Multi-tenant FastAPI operations platform with JWT auth, role-based access control, PostgreSQL, and testing. | [Repository](https://github.com/Oluwafemi1x/opspilot-api) |
-| **MarginGuard Automation** | Playwright-powered competitor price and stock monitoring, screenshot evidence, scan history, and Excel/CSV reports. | [Repository](https://github.com/Oluwafemi1x/marginguard-automation) |
-| **ProofThread Telegram Bot** | Privacy-conscious decision and action tracking for Telegram groups, with attributable records and source-message links. | [Repository](https://github.com/Oluwafemi1x/proofthread-telegram-bot) |
-| **Zunavoa Marketplace** | A responsive multi-vendor e-commerce storefront and seller dashboard. | [Live site](https://oluwafemi1x.github.io/zunavoa-marketplace/) · [Repository](https://github.com/Oluwafemi1x/zunavoa-marketplace) |
-| **Pycoder URL Shortener** | Free short links with custom aliases, QR codes, campaign tags and click tracking; Flask backend with persistent storage. | [Free URL shortener](https://oluwafemi1x.github.io/url-shortener/) · [Repository](https://github.com/Oluwafemi1x/url-shortener) |
-| **Task Manager** | A responsive task-management web app with search, local persistence, reminders, and theme preferences. | [Live site](https://oluwafemi1x.github.io/Task-Manager/) · [Repository](https://github.com/Oluwafemi1x/Task-Manager) |
+PayLab simulates the failure modes real payment systems must survive: duplicate webhooks, invalid signatures, retries, timeouts, HTTP 5xx responses, retry storms, and out-of-order lifecycle events.
 
-**Additional product work:** FESOMI School Management System and LeadPilot AI. Their source repositories are private; product walkthroughs can be shared upon request.
+**Engineering proof:** FastAPI · Python · PostgreSQL · Redis · WebSockets · background workers · GitHub Actions reliability gates · Docker · pytest · provider SDK
 
-### 🧰 Tools I use
+**Providers:** Paystack · Stripe · Flutterwave · Monnify · Razorpay
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+[Source](https://github.com/Oluwafemi1x/PayLab) · [Releases](https://github.com/Oluwafemi1x/PayLab/releases)
 
-### 📈 GitHub activity
+---
+
+### 🤖 LeadPilot AI — AI Lead Qualification & Follow-up SaaS
+
+**Production-pilot SaaS that helps service businesses turn incoming enquiries into structured, prioritized leads and controlled follow-up workflows.**
+
+LeadPilot captures requirements, identifies intent, drafts responses, coordinates follow-ups, and keeps sensitive actions behind human approval boundaries. The product includes isolated customer workspaces and a guided prospect demo.
+
+**Engineering proof:** FastAPI · PostgreSQL · multi-tenancy · authentication/RBAC · Alembic · applied AI with deterministic fallback · encrypted integration credentials · audit controls · Gmail · Google Calendar · WhatsApp Business · CI/CD
+
+**Product status:** v1.0 production-pilot release. Source is private while the product is prepared for business pilots.
+
+> Product walkthroughs and pilot demonstrations are available for prospective businesses, collaborators, and recruiters.
+
+---
+
+### 🏢 [OpsPilot API — Multi-Tenant Operations Platform](https://github.com/Oluwafemi1x/opspilot-api)
+
+**Production-style FastAPI backend for organizations managing clients, teams, and operational work.**
+
+The project focuses on backend concerns that matter in real systems rather than simple CRUD: tenant isolation, authentication vs. authorization, role enforcement, auditability, migrations, validation, filtering, pagination, automated testing, and deployment readiness.
+
+**Engineering proof:** FastAPI · PostgreSQL · SQLAlchemy 2 · JWT · Argon2 · Owner/Admin/Member RBAC · tenant isolation · Alembic · pytest · Docker · GitHub Actions
+
+[Source & documentation](https://github.com/Oluwafemi1x/opspilot-api)
+
+---
+
+## ⚙️ Automation project
+
+### 📊 [MarginGuard — Competitive Revenue Intelligence Automation](https://github.com/Oluwafemi1x/marginguard-automation)
+
+Playwright-powered system that monitors competitor price and stock data, captures screenshot evidence, scores revenue risk/opportunity, keeps scan history, and generates Excel/CSV decision reports.
+
+**Engineering proof:** Python · Playwright · FastAPI · browser automation · SQLite · evidence capture · Excel/CSV reporting · pytest · Docker
+
+[Source & demo assets](https://github.com/Oluwafemi1x/marginguard-automation)
+
+---
+
+## 🧩 More product work
+
+| Project | Focus |
+| --- | --- |
+| **FESOMI School Management System** | Windows school operations software covering students, staff, attendance, fees, results, permissions, backups, reporting, and audit controls. Commercial source is private. |
+| [**ProofThread Telegram Bot**](https://github.com/Oluwafemi1x/proofthread-telegram-bot) | Privacy-conscious decision and action tracking for Telegram groups. |
+| [**Zunavoa Marketplace**](https://github.com/Oluwafemi1x/zunavoa-marketplace) | Responsive multi-vendor marketplace and seller dashboard. |
+| [**Pycoder URL Shortener**](https://github.com/Oluwafemi1x/url-shortener) | Flask-powered short links, aliases, QR codes, campaign tags, and click tracking. |
+| [**Task Manager**](https://github.com/Oluwafemi1x/Task-Manager) | Responsive task-management web application. |
+
+---
+
+## 🧰 Core stack
+
+**Backend:** Python · FastAPI · Flask · REST APIs · SQLAlchemy · Pydantic  
+**Data:** PostgreSQL · SQLite · Redis · Alembic  
+**Security:** JWT · RBAC · Argon2 · tenant isolation · audit logging  
+**Automation:** Playwright · browser workflows · data extraction · reporting  
+**Delivery:** Docker · GitHub Actions · pytest · Ruff · Render  
+**Applied AI:** structured AI workflows · fallback strategies · human approval boundaries
+
+---
+
+## 💡 What I can contribute
+
+I am particularly interested in work involving:
+
+- Python backend and API engineering
+- FastAPI and Flask systems
+- PostgreSQL-backed applications
+- API integrations and automation
+- Multi-tenant SaaS architecture
+- Browser automation with Playwright
+- Backend debugging and reliability
+- Applied AI workflows with controlled automation
+
+---
+
+## 📈 GitHub activity
 
 <div align="center">
   <img alt="GitHub contribution statistics for Oluwafemi1x" src="https://github-readme-stats.vercel.app/api?username=Oluwafemi1x&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </div>
 
-### 🤝 Connect
+---
 
-I'm open to conversations about **Python backend development, APIs, automation, and software projects**. See the public repositories above for code and project details, or connect on [X](https://x.com/Pyc0der) and [TikTok](https://www.tiktok.com/@pycoderr).
+## 🤝 Let's connect
+
+I'm open to **Python backend roles, API and automation projects, technical collaborations, and LeadPilot AI pilot conversations**.
+
+- GitHub: [Oluwafemi1x](https://github.com/Oluwafemi1x)
+- X: [@Pyc0der](https://x.com/Pyc0der)
+- TikTok: [@pycoderr](https://www.tiktok.com/@pycoderr)
+
+> If you're evaluating me for an engineering role, start with **PayLab**, **OpsPilot API**, and **MarginGuard**. If you're evaluating a business product or pilot, ask me about **LeadPilot AI**.
