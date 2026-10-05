@@ -26,7 +26,7 @@ PayLab simulates the failure modes real payment systems must survive: duplicate 
 
 **Providers:** Paystack · Stripe · Flutterwave · Monnify · Razorpay
 
-[Source](https://github.com/Oluwafemi1x/PayLab) · [Releases](https://github.com/Oluwafemi1x/PayLab/releases)
+[Source](https://github.com/Oluwafemi1x/PayLab) · [Releases](https://github.com/Oluwafemi1x/PayLab/releases) · [CI](https://github.com/Oluwafemi1x/PayLab/actions)
 
 ---
 
@@ -40,6 +40,8 @@ LeadPilot captures requirements, identifies intent, drafts responses, coordinate
 
 **Product status:** v1.0 production-pilot release. Source is private while the product is prepared for business pilots.
 
+**Verified product proof:** public prospect demo flow · private customer workspace · pilot-request flow · production release verification · Render deployment blueprint · CI for backend tests and frontend type/build checks
+
 > Product walkthroughs and pilot demonstrations are available for prospective businesses, collaborators, and recruiters.
 
 ---
@@ -52,7 +54,7 @@ The project focuses on backend concerns that matter in real systems rather than 
 
 **Engineering proof:** FastAPI · PostgreSQL · SQLAlchemy 2 · JWT · Argon2 · Owner/Admin/Member RBAC · tenant isolation · Alembic · pytest · Docker · GitHub Actions
 
-[Source & documentation](https://github.com/Oluwafemi1x/opspilot-api)
+[Source & documentation](https://github.com/Oluwafemi1x/opspilot-api) · [CI](https://github.com/Oluwafemi1x/opspilot-api/actions) · **Render-ready deployment included**
 
 ---
 
@@ -64,7 +66,9 @@ Playwright-powered system that monitors competitor price and stock data, capture
 
 **Engineering proof:** Python · Playwright · FastAPI · browser automation · SQLite · evidence capture · Excel/CSV reporting · pytest · Docker
 
-[Source & demo assets](https://github.com/Oluwafemi1x/marginguard-automation)
+![MarginGuard dashboard](https://raw.githubusercontent.com/Oluwafemi1x/marginguard-automation/main/docs/demo/dashboard.png)
+
+[Source](https://github.com/Oluwafemi1x/marginguard-automation) · [Watch demo video](https://github.com/Oluwafemi1x/marginguard-automation/blob/main/docs/demo/marginguard-demo.mp4) · [CI](https://github.com/Oluwafemi1x/marginguard-automation/actions)
 
 ---
 
